@@ -1,5 +1,8 @@
 # amis-editor-demo-vue
 
+amis-editor-demo for vue
+
+官方react版本：https://github.com/aisuda/amis-editor-demo
 ## Project setup
 ```
 npm install
@@ -22,3 +25,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
