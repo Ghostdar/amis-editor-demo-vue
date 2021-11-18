@@ -33,7 +33,7 @@ export default {
     },
   },
   mounted() {
-      // this.initEditor()
+      this.initEditor()
       this.render({})
   },
 }
